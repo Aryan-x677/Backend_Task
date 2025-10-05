@@ -6,4 +6,3 @@ __pycache__/
 *.db
 *.log
 data/unclaimedmusicalworkrightshares.tsv
-*.xlsx
